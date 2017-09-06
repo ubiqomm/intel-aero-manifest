@@ -8,7 +8,7 @@
   
   
   <project name="meta-intel" remote="yocto" revision="7e8f98aa326f16edd679a95f7bb2daf4256479f3" upstream="pyro"/>
-  <project name="meta-intel-aero" remote="ubiqomm" revision="master" upstream="master"/>
+  <project name="meta-intel-aero" remote="ubiqomm" revision="ubiq_master" upstream="ubiq_master"/>
   <project name="meta-intel-aero-base" remote="intel-aero" revision="1b6a69c0ec77d5cb3a74fbff10802df42e2ec85e" upstream="master"/>
   <project name="meta-intel-realsense" remote="intel-realsense" revision="53e93ed3f9fad6aa96ca455172e4919b666dca3b" upstream="master"/>
   <project name="meta-openembedded" remote="oe" revision="5e82995148a2844c6f483ae5ddd1438d87ea9fb7" upstream="pyro"/>
